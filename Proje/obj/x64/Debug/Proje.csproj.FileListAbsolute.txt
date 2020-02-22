@@ -1,0 +1,34 @@
+C:\Users\RC\Desktop\Proje\Proje\bin\x64\Debug\Proje.exe
+C:\Users\RC\Desktop\Proje\Proje\bin\x64\Debug\Proje.pdb
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.Anasayfa.resources
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.Giris.resources
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.Musteriler.resources
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.Properties.Resources.resources
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.Satıs_Islemi.resources
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.Stock_Kontrol.resources
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.Urun_Girisi.resources
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.Urun_Grubu.resources
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.exe
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.pdb
+C:\Users\RC\Desktop\Proje\Proje\bin\x64\Debug\Proje.exe.config
+C:\Users\RC\Desktop\Proje\Proje\obj\x64\Debug\Proje.Stok.resources
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\bin\x64\Debug\Proje.exe.config
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\bin\x64\Debug\Proje.exe
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\bin\x64\Debug\Proje.pdb
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.csprojAssemblyReference.cache
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.Anasayfa.resources
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.Giris.resources
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.Musteriler.resources
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.Properties.Resources.resources
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.Satıs_Islemi.resources
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.Stock_Kontrol.resources
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.Stok.resources
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.Urun_Girisi.resources
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.Urun_Grubu.resources
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.csproj.GenerateResource.cache
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.exe
+C:\D SÜRÜCÜSÜ\RAUF\Projeler\Proje\Proje\obj\x64\Debug\Proje.pdb
